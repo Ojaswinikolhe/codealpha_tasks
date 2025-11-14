@@ -1,7 +1,4 @@
 # codealpha_tasks
-<<<<<<< HEAD
-A machine learning project to predict sales based on advertising spend
-=======
 A machine learning project to predict sales based on advertising spend.
                        
                         
@@ -9,22 +6,18 @@ A machine learning project to predict sales based on advertising spend.
  📄 Project Overview:
  This project focuses on predicting Sales using Machine Learning techniques.
 The dataset contains advertising investments across different media platforms such as TV, Radio, and Newspaper, and the goal is to analyze how these factors affect sales.
->>>>>>> 2511b4b19e8dd18765aab286fabd01024a9a44e3
 
-<<<<<<< HEAD
-📄 Project Overview
 
+
+📄 Project Overview:
 This project focuses on predicting Sales using Machine Learning techniques.
 The dataset contains advertising investments across different media platforms such as TV, Radio, and Newspaper, and the goal is to analyze how these factors affect sales.
-
 The project also helps in understanding:
 
 -How advertising spend influences sales
 
 -How to clean and prepare data
 
--How to build and evaluate a regression model
-=======
 The project also helps in understanding:
 
 :How advertising spend influences sales
@@ -51,17 +44,23 @@ The project also helps in understanding:
 
 
 
- 🚀 Technologies Used:
--Python
+         🚀 Technologies Used:
+        -Python
 
--Pandas
+        -Pandas
 
--NumPy
+        -NumPy
 
--Matplotlib
+        -Matplotlib
 
--Seaborn
+        -Seaborn
 
--Scikit-Learn
+       -Scikit-Learn
 
->>>>>>> 2511b4b19e8dd18765aab286fabd01024a9a44e3
+
+
+
+                              📌 Conclusion:
+
+This project demonstrates how Machine Learning can be used to predict sales using different advertising channels.
+The analysis helps businesses make better marketing decisions and allocate budgets effectively.
