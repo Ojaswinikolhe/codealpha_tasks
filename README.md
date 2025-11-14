@@ -1,5 +1,8 @@
 # codealpha_tasks
 A machine learning project to predict sales based on advertising spend.
+                       
+                        
+                        
                         📄 Project Overview
 
 This project focuses on predicting Sales using Machine Learning techniques.
@@ -30,8 +33,8 @@ The project also helps in understanding:
 
 
 
-                  🚀 Technologies Used:
 
+ 🚀 Technologies Used:
 -Python
 
 -Pandas
