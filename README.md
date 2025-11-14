@@ -13,18 +13,8 @@ The project also helps in understanding:
 
 :How to build and evaluate a regression model
 
-                📂 Dataset Used
-
-    Columns in the dataset:
-Column Name     |  	Description
-
-TV	            |   Advertising spend on TV
-Radio           | 	Advertising spend on radio
-Newspaper       | 	Spend on newspaper ads
-Sales           | 	Total sales (target variable)
-
-
-           🧹 Data Preparation Steps:
+        
+     🧹 Data Preparation Steps:
 
       -Load the dataset using pandas
 
