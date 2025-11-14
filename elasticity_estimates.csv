@@ -1,0 +1,6 @@
+method,channel,elasticity,pct_change
+log-log_total,Total_Ad,0.5572358865273023,
+rf_uplift_pct,TV,,2.8038216008374874
+rf_uplift_pct,Radio,,2.2684373189671327
+rf_uplift_pct,Newspaper,,0.07833794737726128
+rf_uplift_pct,Total_Ad,,5.550655218991756
